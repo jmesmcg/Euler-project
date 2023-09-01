@@ -1,0 +1,3 @@
+365.25 days/yr * 100 = 36525 days 
+36525 days/7 = 5217.86 Sundays
+5217.86/30.44 days per month = 171.41 Sundays on 1st of month.
